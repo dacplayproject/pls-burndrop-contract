@@ -1,0 +1,20 @@
+{
+  "name": "pls-burndrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.23",
+    "openzeppelin-solidity": "3.1.0",
+    "pify": "^5.0.0"
+  }
+}

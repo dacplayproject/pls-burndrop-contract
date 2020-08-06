@@ -1,0 +1,1 @@
+truffle-flattener ./contracts/PlsBurnDrop.sol --output ./build/PlsBurnDrop.sol 
